@@ -1,6 +1,6 @@
-# faradasrapp
+# New Weather Application Using https://openweathermap.org/ Data
 
-A new Flutter project.
+Just For Learning API in flutter
 
 ## Getting Started
 
